@@ -1,0 +1,17 @@
+.angle{
+    background-color: rgb(226, 112, 156);
+    font-family: verdana,"DejaVu Sans",sans-serif;
+}
+#fourth{
+    font-size: 24px;
+}
+
+#second {
+    color:rgb(7, 57, 165);
+    font-size: 36px;
+}
+
+.four {
+    background-color:hsl(123, 70%, 80%);
+    font-weight: bold;
+}
