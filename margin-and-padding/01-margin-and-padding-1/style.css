@@ -8,14 +8,14 @@ body {
   border: 3px solid blue;
   /* CHANGE ME */
   padding: 50px;
-  margin: 10px 10px;
+  margin: 32px 10px;
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
-  margin-bottom: 30px;
+  margin-bottom: 48px;
 }
 
 .three {
